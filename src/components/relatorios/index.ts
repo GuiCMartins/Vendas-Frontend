@@ -1,0 +1,1 @@
+export { RelatoriosVendas } from "./vendas";
